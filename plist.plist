@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.Apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Filter</key>
+    <dict>
+        <key>Classes</key>
+        <array>
+            <string>AVPlayer</string>
+            <string>WKWebView</string>
+            <string>UIWebView</string>
+            <string>BUVideoPlayer</string>
+            <string>GDTNativeExpressVideoAd</string>
+        </array>
+        <key>Mode</key>
+        <string>Any</string>
+    </dict>
+</dict>
+</plist>

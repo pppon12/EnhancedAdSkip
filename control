@@ -1,0 +1,9 @@
+Package: com.yyy.enhancedadskip
+Name: EnhancedAdSkip
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Enhanced ad skipper for iOS - supports AVPlayer, WKWebView, UIWebView, and major ad SDKs
+Maintainer: YYY
+Author: YYY
+Section: Tweaks
+Depends: mobilesubstrate
